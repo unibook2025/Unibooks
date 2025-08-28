@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 document.addEventListener("DOMContentLoaded", () => {
   const regulationFilter = document.getElementById("regulation-filter");
   const languageFilter = document.getElementById("language-filter");
@@ -67,8 +66,6 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 });
 
-
-=======
 document.addEventListener("DOMContentLoaded", () => {
   const regulationFilter = document.getElementById("regulation-filter");
   const languageFilter = document.getElementById("language-filter");
@@ -136,6 +133,3 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
-
-
->>>>>>> 9c5379c7ff5a355313f859389660a35f00136f86
